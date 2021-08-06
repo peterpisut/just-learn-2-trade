@@ -1,2 +1,3 @@
-# AutoTrade
- The machine learning project for making decision to trade on the stock market.
+### JustLearn2Trade
+ Web Development to find which stocks are good, when they are inexpensive.</br>
+By Peter Pisut
